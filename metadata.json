@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An AI-powered travel planner that generates personalized itineraries based on your destination, season, budget, and trip duration. It suggests tourist attractions and transportation options to create the perfect trip.",
+  "requestFramePermissions": []
+}
